@@ -1,0 +1,20 @@
+/* 1-mashq */
+.no-select {
+    user-select: none;
+}
+/* 2-mashq */
+.disabled {
+    pointer-events: none;
+}
+/* 3-mashq */
+.card {
+    backface-visibility: hidden;
+}
+/* 4-mashq */
+.container {
+    perspective: 1000px;
+}
+/* 5-mashq */
+.box {
+    transform: rotateY(180deg);
+}
